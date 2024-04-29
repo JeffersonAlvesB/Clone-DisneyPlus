@@ -1,7 +1,7 @@
 # Clone DisneyPlus
 
 <h2>:bookmark_tabs: Sobre</h2>
-<p>Projeto feito para realçar minhas habilidades no Front-end, como: Responsivo usando flexbox</p>
+<p>Projeto feito para realçar minhas habilidades no Front-end.
 
 <h2>Tecnlogias:</h2>
 
