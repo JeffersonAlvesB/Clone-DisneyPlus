@@ -1,0 +1,135 @@
+@media screen and (max-width: 1024px) {
+  .mobile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+  }
+
+  .mobile h2 {
+    font-size: 2rem;
+    color: white;
+    margin-bottom: 2%;
+    text-align: center;
+  }
+
+  .mobile h3 {
+    color: white;
+    margin-top: 8%;
+    margin-bottom: 2%;
+  }
+
+  .mobile p {
+    color: silver;
+    margin-bottom: 2%;
+  }
+
+  .container_mob {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .card_1 {
+    display: flex;
+    text-align: center;
+    border-bottom: 2px solid silver;
+    position: sticky;
+    top: -15px;
+  }
+
+  .disney_mobile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width: 50vw;
+    height: 200px;
+    background-color: #040814;
+  }
+
+  .btn_mob1 {
+    width: 60%;
+    font-size: 0.9rem;
+    background-color: #02d6e8;
+    padding: 1.25rem 0;
+    margin-top: 0.56rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 2px;
+  }
+
+  .combo_mobile {
+    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #1d1f2b;
+    width: 50vw;
+    height: 200px;
+  }
+
+  .btn_mob2 {
+    width: 60%;
+    color: white;
+    font-size: 0.9rem;
+    background-color: blue;
+    padding: 1.25rem 0;
+    margin-top: 0.56rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 2px;
+  }
+
+  .card_2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid hsla(0, 0%, 75%, 0.3);
+  }
+
+  .card_2 p {
+    margin-top: 2%;
+  }
+
+  .btn_mob3 {
+    width: 60%;
+    background-color: #02d6e8;
+    padding: 1.25rem 0;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    border: none;
+    cursor: pointer;
+    border-radius: 2px;
+  }
+
+  .card_3 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid hsla(0, 0%, 75%, 0.3);
+  }
+  .card_4 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid hsla(0, 0%, 75%, 0.3);
+  }
+  .card_5 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid hsla(0, 0%, 75%, 0.3);
+  }
+  .card_6 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid hsla(0, 0%, 75%, 0.3);
+  }
+}
